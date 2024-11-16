@@ -1,9 +1,10 @@
 body {
     font-family: sans-serif;
+   
   }
   
   #gameBoard {
-    background-color: #232323;
+    background-color: #03333b;
     display: grid;
     grid-template-columns: 6rem 6rem 6rem;
     grid-template-rows: 6rem 6rem 6rem;
@@ -48,3 +49,4 @@ body {
   .vez{
     color: black;
   }
+ 
